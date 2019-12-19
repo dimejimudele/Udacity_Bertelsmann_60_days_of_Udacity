@@ -1,2 +1,14 @@
 # Udacity_Bertelsmann_60_days_of_Udacity
 As part of the Udacity-Bertelsmann AI track Challenge 2019, I committed myself to working for 1 hour everyday on Artificial Intelligence coding and problem solving. This repository contains my daily activities in these 60 days.
+
+**Day 3**
+Returned to the Simultaneous Localization and Mapping (SLAM) module of my Nanodegree in Computer Vision course to revise the core concepts.
+Implemented the 'math under the hood' of the sense and move functions for robot localization. I did it  on paper, by hand. __No code!__
+Code at times is too abstract. Implementation on paper by hand makes the concept stick in my brain for much longer.
+![Notebook 1](/3/IMG_20191219_175641.jpg) ![Notebook 2](/3/IMG_20191219_175655.jpg)
+
+**Days 1 and 2**
+Worked with LSTMs (a variant of RNNs) for forecasting multivariate tabular data.
+Took sometime to understand `time_steps` in LSTMs.
+This work was done using Keras. Will now proceeed to generate a PyTorch equivalent of this model.
+
