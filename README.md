@@ -1,6 +1,12 @@
 # Udacity Bertelsmann 60 days of Udacity
 As part of the Udacity-Bertelsmann AI track Challenge 2019, I committed myself to working for 1 hour everyday on Artificial Intelligence coding and problem solving. This repository contains my daily activities in these 60 days.
 
+* **Day 4**
+Worked on the 2D histogram localization part of my Nanodegree in Computer vision.  
+Implemented the feature sense feature as shown in the screenshot below:<br />
+<img src="/4/image.png" width="30%" height= "30%">
+<br/>
+
 * **Day 3**
 Returned to the Simultaneous Localization and Mapping (SLAM) module of my Nanodegree in Computer Vision course to revise the core concepts.
 Implemented the 'math under the hood' of the sense and move functions for robot localization. I did it  on paper, by hand. __No code!__
