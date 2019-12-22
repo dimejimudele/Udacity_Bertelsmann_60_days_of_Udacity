@@ -12,7 +12,7 @@ Returned to the Simultaneous Localization and Mapping (SLAM) module of my Nanode
 Implemented the 'math under the hood' of the sense and move functions for robot localization. I did it  on paper, by hand. __No code!__
 Code at times is too abstract. Implementation on paper by hand makes the concept stick in my brain for much longer. <br />
 <img src="/img/3/IMG_20191219_175641.jpg" width="30%" height= "30%"> <img src="/img/3/IMG_20191219_175655.jpg" width="30%" height= "30%">
-
+<br/>
 * **Days 1 and 2**
 Worked with LSTMs (a variant of RNNs) for forecasting multivariate tabular data.
 Took sometime to understand `time_steps` in LSTMs.
