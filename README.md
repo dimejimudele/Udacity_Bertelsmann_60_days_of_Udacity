@@ -1,6 +1,21 @@
 # Udacity Bertelsmann 60 days of Udacity
 As part of the Udacity-Bertelsmann AI track Challenge 2019, I committed myself to working for 1 hour everyday on Artificial Intelligence coding and problem solving. This repository contains my daily activities in these 60 days.
 
+* **Day 7**
+Continued working on the Fashion MNIST model by introducing some data augumentation in input. <br/>
+Waiting now to attend the Yoshua Bengio vs Gary Marcus debate via Facebook live <br/>
+<img src="/img/6/Capture.PNG" width="30%" height= "30%">
+<br/>
+
+* **Day 6**:
+Trained a neural network to classify the fashion MNIST dataset.<br/>
+<br/>
+
+* **Day 5**
+Attended #sg_ai_nigeria meetup. We talked about project ideas.
+<img src="/img/6/Screenshot_20191221-164101.jpg" width="30%" height= "30%">
+<br/>
+
 * **Day 4**
 Worked on the 2D histogram localization part of my Nanodegree in Computer vision.  
 Implemented the feature sense feature as shown in the screenshot below:<br />
