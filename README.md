@@ -1,10 +1,14 @@
 # Udacity Bertelsmann 60 days of Udacity
 As part of the Udacity-Bertelsmann AI track Challenge 2019, I committed myself to working for 1 hour everyday on Artificial Intelligence coding and problem solving. This repository contains my daily activities in these 60 days.
+* **Day 8**
+Worked on final revision of Kalman Filter for localization of self driving cars (towards last project of CV nanodegree)
+<img src="/img/8/Capture.PNG" width="30%" height= "30%">
+<br/>
 
 * **Day 7**
 Continued working on the Fashion MNIST model by introducing some data augumentation in input. <br/>
 Waiting now to attend the Yoshua Bengio vs Gary Marcus debate via Facebook live <br/>
-<img src="/img/6/Capture.PNG" width="30%" height= "30%">
+<img src="/img/7/Capture.PNG" width="30%" height= "30%">
 <br/>
 
 * **Day 6**:
