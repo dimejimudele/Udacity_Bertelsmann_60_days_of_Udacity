@@ -1,5 +1,11 @@
 # Udacity Bertelsmann 60 days of Udacity
 As part of the Udacity-Bertelsmann AI track Challenge 2019, I committed myself to working for 1 hour everyday on Artificial Intelligence coding and problem solving. This repository contains my daily activities in these 60 days.
+
+
+* **Day 9**:
+Trained a neural network to classify the fashion MNIST dataset.<br/>
+<br/>
+
 * **Day 8**
 Worked on final revision of Kalman Filter for localization of self driving cars (towards last project of CV nanodegree)
 <img src="/img/8/Capture.PNG" width="30%" height= "30%">
